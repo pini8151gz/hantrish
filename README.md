@@ -1,5 +1,6 @@
 # חנטריש
 
-ארכיון קבוצת בית שמואל חנטריש.
+ארכיון קבוצת בית שמואל.
 
-**הקישור:** https://hantrish.grok.me
+- קצר: https://da.gd/chantrish
+- חי: https://tundra-blue-monarch-timber.grok.me/
